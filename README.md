@@ -1,5 +1,4 @@
-# Trump-Tweets-Classification
-
+# NLP Approaches for Tweets' Classification
 In this Tweet classification project, we use several methods, including neural methods such as LSTM and FFNN, as well as traditional machine learning methods such as Logistic Regression and SVM, to classify tweets as written by Donald Trump or his staffers. For the neural methods we trained Word2Vec embedding vectors using pyTorch (see w2v.txt). Examples for several features' distribution is presented in the notebook, demonstrating part of the feature selection process.
 
 ![performance chart comparing accuracy, F1-score, recall and precision for the optimal conditions of each of the classifiers](./images/performance_summary.png)
